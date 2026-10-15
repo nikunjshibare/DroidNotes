@@ -1,0 +1,6 @@
+{
+  "name": "DroidNotes",
+  "description": "Native Android client for Apple Notes that bidirectionally syncs via iCloud CloudKit web session with local Room offline persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

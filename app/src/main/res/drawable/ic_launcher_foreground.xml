@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Notepad Sheet Base -->
+    <path
+        android:pathData="M34,26 L74,26 C77.3,26 80,28.7 80,32 L80,78 C80,81.3 77.3,84 74,84 L34,84 C30.7,84 28,81.3 28,78 L28,32 C28,28.7 30.7,26 34,26 Z"
+        android:fillColor="#F7F7F8" />
+
+    <!-- Notepad Top Accent Header (Apple Notes Golden Band) -->
+    <path
+        android:pathData="M34,26 L74,26 C77.3,26 80,28.7 80,32 L80,41 L28,41 L28,32 C28,28.7 30.7,26 34,26 Z"
+        android:fillColor="#F5A623" />
+
+    <!-- Ruled Note Lines -->
+    <path
+        android:pathData="M34,49 L74,49 M34,57 L74,57 M34,65 L64,65 M34,73 L54,73"
+        android:strokeColor="#D1D1D6"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+
+    <!-- Checkbox item on first line -->
+    <path
+        android:pathData="M36,49 A2,2 0 1,0 36,49.01"
+        android:fillColor="#E59B1F"
+        android:strokeColor="#E59B1F"
+        android:strokeWidth="1.5" />
+
+    <!-- Pencil Stylus Silhouette -->
+    <path
+        android:pathData="M66,60 L78,48 C79,47 80.5,47 81.5,48 L83,49.5 C84,50.5 84,52 83,53 L71,65 L64,67 Z"
+        android:fillColor="#E89B10" />
+    <path
+        android:pathData="M64,67 L66.5,64.5 L68.5,66.5 Z"
+        android:fillColor="#2C2C2E" />
+</vector>
